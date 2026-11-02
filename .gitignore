@@ -1,0 +1,30 @@
+# Environment
+.env
+**/.env
+!.env.example
+
+# Node.js
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Python
+ai-service/.venv/
+**/__pycache__/
+*.pyc
+
+# Prisma generated client
+server/generated/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary
+*.tmp

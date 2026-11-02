@@ -1,0 +1,109 @@
+text,category,priority
+คอมพิวเตอร์เปิดไม่ติด,HARDWARE,HIGH
+เครื่องเปิดแล้วไม่มีภาพขึ้นหน้าจอ,HARDWARE,HIGH
+เมาส์ใช้งานไม่ได้,HARDWARE,LOW
+คีย์บอร์ดบางปุ่มกดไม่ได้,HARDWARE,LOW
+จอคอมกระพริบตลอดเวลา,HARDWARE,MEDIUM
+โน้ตบุ๊กแบตเตอรี่ไม่ชาร์จ,HARDWARE,MEDIUM
+เครื่องคอมมีเสียงดังผิดปกติ,HARDWARE,MEDIUM
+ฮาร์ดดิสก์มีเสียงและเปิดไฟล์ไม่ได้,HARDWARE,HIGH
+RAM มีปัญหาเครื่องรีสตาร์ทเอง,HARDWARE,HIGH
+USB เสียบแล้วไม่เจออุปกรณ์,HARDWARE,MEDIUM
+
+เปิดโปรแกรมไม่ได้,SOFTWARE,MEDIUM
+โปรแกรมค้างและปิดเองบ่อย,SOFTWARE,MEDIUM
+Windows ขึ้น error ตอนเปิดเครื่อง,SOFTWARE,HIGH
+ติดตั้งโปรแกรมไม่ได้,SOFTWARE,MEDIUM
+Microsoft Office เปิดไม่ได้,SOFTWARE,MEDIUM
+โปรแกรมบัญชีเข้าใช้งานไม่ได้,SOFTWARE,HIGH
+แอปพลิเคชันทำงานช้ามาก,SOFTWARE,LOW
+โปรแกรมแจ้ง missing dll,SOFTWARE,MEDIUM
+อัปเดต Windows แล้วใช้งานไม่ได้,SOFTWARE,HIGH
+ต้องการติดตั้งโปรแกรมใหม่,SOFTWARE,LOW
+
+เชื่อมต่อ Wi-Fi ไม่ได้,NETWORK,MEDIUM
+อินเทอร์เน็ตใช้งานไม่ได้,NETWORK,HIGH
+เน็ตช้ามาก,NETWORK,MEDIUM
+Wi-Fi หลุดบ่อย,NETWORK,MEDIUM
+เข้าเว็บไซต์ภายในบริษัทไม่ได้,NETWORK,HIGH
+LAN เชื่อมต่อไม่ได้,NETWORK,MEDIUM
+เครื่องหา IP Address ไม่ได้,NETWORK,HIGH
+VPN เชื่อมต่อไม่ได้,NETWORK,HIGH
+อินเทอร์เน็ตทั้งสำนักงานใช้งานไม่ได้,NETWORK,CRITICAL
+Network server ไม่สามารถเชื่อมต่อได้,NETWORK,CRITICAL
+
+ลืมรหัสผ่าน,ACCOUNT,LOW
+เข้าสู่ระบบไม่ได้,ACCOUNT,MEDIUM
+บัญชีถูกล็อก,ACCOUNT,HIGH
+ต้องการเปลี่ยนรหัสผ่าน,ACCOUNT,LOW
+Login แล้วขึ้น invalid password,ACCOUNT,MEDIUM
+ไม่สามารถเข้าอีเมลบริษัทได้,ACCOUNT,HIGH
+ต้องการสร้างบัญชีผู้ใช้ใหม่,ACCOUNT,LOW
+บัญชีไม่มีสิทธิ์เข้าถึงระบบ,ACCOUNT,MEDIUM
+บัญชีพนักงานถูกระงับ,ACCOUNT,HIGH
+ระบบแจ้ง account expired,ACCOUNT,MEDIUM
+
+ต้องการย้ายคอมพิวเตอร์ไปโต๊ะใหม่,OTHER,LOW
+ต้องการขอคำปรึกษาจากฝ่าย IT,OTHER,LOW
+ต้องการเตรียมอุปกรณ์สำหรับประชุม,OTHER,LOW
+ขอความช่วยเหลือในการใช้งานห้องประชุม,OTHER,LOW
+ต้องการสำรองข้อมูล,OTHER,MEDIUM
+ต้องการกู้คืนไฟล์ที่ลบไป,OTHER,HIGH
+ต้องการย้ายข้อมูลไปเครื่องใหม่,OTHER,MEDIUM
+ต้องการตรวจสอบระบบก่อนเริ่มงาน,OTHER,LOW
+ขอคำแนะนำเกี่ยวกับอุปกรณ์ IT,OTHER,LOW
+ต้องการความช่วยเหลือทั่วไปจากฝ่าย IT,OTHER,LOW
+เครื่องคอมเปิดติดแต่จอไม่แสดงผล,HARDWARE,HIGH
+พัดลม CPU ไม่หมุนและเครื่องร้อน,HARDWARE,HIGH
+เครื่องพิมพ์ไม่ดึงกระดาษ,HARDWARE,MEDIUM
+เมาส์ดับระหว่างใช้งาน,HARDWARE,LOW
+คีย์บอร์ดเชื่อมต่อแล้วไม่ทำงาน,HARDWARE,LOW
+จอภาพขึ้นเส้นสีผิดปกติ,HARDWARE,MEDIUM
+โน้ตบุ๊กดับเองเมื่อถอดสายชาร์จ,HARDWARE,HIGH
+ฮาร์ดดิสก์ไม่ถูกตรวจพบในเครื่อง,HARDWARE,HIGH
+คอมพิวเตอร์ห้องเซิร์ฟเวอร์ดับทำให้ระบบใช้งานไม่ได้,HARDWARE,CRITICAL
+อุปกรณ์เซิร์ฟเวอร์หลักไม่สามารถเปิดได้,HARDWARE,CRITICAL
+
+เปิด Chrome แล้วโปรแกรมปิดเอง,SOFTWARE,LOW
+Microsoft Excel เปิดไฟล์ไม่ได้,SOFTWARE,MEDIUM
+โปรแกรม ERP เข้าใช้งานไม่ได้,SOFTWARE,HIGH
+Windows เข้า Desktop ไม่ได้,SOFTWARE,HIGH
+โปรแกรม Antivirus มีปัญหา,SOFTWARE,MEDIUM
+ติดตั้ง Driver ไม่สำเร็จ,SOFTWARE,MEDIUM
+โปรแกรมประชุมออนไลน์เปิดไม่ได้,SOFTWARE,MEDIUM
+ระบบ POS ทุกเครื่องไม่สามารถใช้งานได้,SOFTWARE,CRITICAL
+ระบบ ERP ของบริษัทล่มทั้งหมด,SOFTWARE,CRITICAL
+โปรแกรมภายในบริษัทใช้งานไม่ได้ทุกแผนก,SOFTWARE,CRITICAL
+
+ต่อ Wi-Fi ได้แต่ไม่มีอินเทอร์เน็ต,NETWORK,MEDIUM
+อินเทอร์เน็ตหลุดทุก 5 นาที,NETWORK,MEDIUM
+สาย LAN เสียบแล้วไม่มีสัญญาณ,NETWORK,MEDIUM
+VPN บริษัทเข้าไม่ได้จากที่บ้าน,NETWORK,HIGH
+ไม่สามารถเชื่อมต่อ Server ภายในได้,NETWORK,HIGH
+DNS มีปัญหาทำให้เข้าเว็บไซต์ไม่ได้,NETWORK,HIGH
+อินเทอร์เน็ตช้ามากเฉพาะเครื่องนี้,NETWORK,LOW
+Wi-Fi ทั้งชั้นไม่สามารถใช้งานได้,NETWORK,CRITICAL
+อินเทอร์เน็ตทั้งบริษัทล่มและไม่สามารถทำงานได้,NETWORK,CRITICAL
+Core network ใช้งานไม่ได้ทุกแผนก,NETWORK,CRITICAL
+
+จำรหัสผ่านเข้าเครื่องไม่ได้,ACCOUNT,LOW
+ต้องการ Reset Password,ACCOUNT,LOW
+Login ระบบ HR ไม่ได้,ACCOUNT,MEDIUM
+Account ถูก Lock หลังใส่รหัสผิด,ACCOUNT,MEDIUM
+ไม่มี Permission เข้าโฟลเดอร์งาน,ACCOUNT,MEDIUM
+อีเมลบริษัทถูกระงับการใช้งาน,ACCOUNT,HIGH
+บัญชีผู้ดูแลระบบถูกล็อก,ACCOUNT,HIGH
+บัญชีสำคัญของฝ่ายการเงินเข้าใช้งานไม่ได้,ACCOUNT,HIGH
+บัญชี Admin หลักถูกล็อกทำให้ไม่มีผู้ดูแลระบบ,ACCOUNT,CRITICAL
+ผู้ดูแลทุกบัญชีไม่สามารถเข้าสู่ระบบได้,ACCOUNT,CRITICAL
+
+ต้องการติดตั้งคอมพิวเตอร์ให้พนักงานใหม่,OTHER,LOW
+ขอคำแนะนำเลือกอุปกรณ์คอมพิวเตอร์,OTHER,LOW
+ต้องการย้ายโต๊ะและติดตั้งอุปกรณ์ใหม่,OTHER,LOW
+ต้องการเตรียมโน้ตบุ๊กสำหรับประชุม,OTHER,LOW
+ขอให้ช่วยสำรองไฟล์งาน,OTHER,MEDIUM
+ต้องการกู้ข้อมูลสำคัญที่ถูกลบ,OTHER,HIGH
+ต้องการย้ายข้อมูลพนักงานไปเครื่องใหม่,OTHER,MEDIUM
+อุปกรณ์ห้องประชุมใช้งานไม่ได้ก่อนเริ่มประชุม,OTHER,HIGH
+ต้องการความช่วยเหลือจัดเตรียมห้องประชุมด่วน,OTHER,MEDIUM
+ไฟล์งานสำคัญของบริษัทสูญหายและไม่มีข้อมูลสำรอง,OTHER,CRITICAL
